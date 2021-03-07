@@ -29,9 +29,11 @@ Línea de tiempo
 
 - Agregar, Eliminar, Editar eventos o hechos históricos con al menos los siguientes datos:	
 			
-			- Título
-			- Fecha que ocurrió (inicio y fin)
-			- Descripción o contenido
+	- Título
+			
+	- Fecha que ocurrió (inicio y fin)
+
+	- Descripción o contenido
 
 Rueda Calendárica
 		
