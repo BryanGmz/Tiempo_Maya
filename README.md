@@ -3,48 +3,63 @@ La cultura maya se refiere a una civilización mesoamericana que destacó a lo l
 
 Funcionalidades
 
-  	Calendario Cholq’ij
-  		
-  		- Información acerca del Calendario Cholq’ij
-  		- Información acerca del Calendario Lunar y la relación con el Calendario Cholq’ij
-  		- Información acerca de los Días y Formas de Contar del Calendario Cholq’ij
-  		- Obtener la equivalencia de fecha con el calendario gregoriano
+Calendario Cholq’ij
 
-	Calendario Habb’
-		
-		- Información acerca del Calendario Habb’
-		- Información acerca del Uayeb y la relación con el Calendario Cholq’ij
-		- Información acerca del Winal y Kinal del Calendario Habb’
-		- Obtener la equivalencia de fecha con el calendario gregoriano
+- Información acerca del Calendario Cholq’ij
 
-	Línea de tiempo
-		
-		- Información sobre eventos o hechos históricos en la cultura maya
-		- Agregar, Eliminar, Editar eventos o hechos históricos con al menos los siguientes datos:
+- Información acerca del Calendario Lunar y la relación con el Calendario Cholq’ij
+
+- Información acerca de los Días y Formas de Contar del Calendario Cholq’ij
+
+- Obtener la equivalencia de fecha con el calendario gregoriano
+
+Calendario Habb’		
+
+- Información acerca del Calendario Habb’
+
+- Información acerca del Uayeb y la relación con el Calendario Cholq’ij
+
+- Información acerca del Winal y Kinal del Calendario Habb’
+
+- Obtener la equivalencia de fecha con el calendario gregoriano
+
+Línea de tiempo
+
+- Información sobre eventos o hechos históricos en la cultura maya
+
+- Agregar, Eliminar, Editar eventos o hechos históricos con al menos los siguientes datos:	
 			
 			- Título
 			- Fecha que ocurrió (inicio y fin)
 			- Descripción o contenido
 
-	Rueda Calendárica
+Rueda Calendárica
+		
+- Información acerca de la Rueda Calendárica
 
-		- Información acerca de la Rueda Calendárica
-		- Información acerca del Mecanismo de la Rueda Calendárica
-		- Información acerca de la Correlación Mexica de los Años y su relación con la rueda Calendárica
-		- Obtener la equivalencia de fecha con el calendario gregoriano
+- Información acerca del Mecanismo de la Rueda Calendárica
 
-	Nahual
+- Información acerca de la Correlación Mexica de los Años y su relación con la rueda Calendárica
 
-		- Información acerca de la Rueda Calendárica
-		- Obtener el nahual mediante una fecha
+- Obtener la equivalencia de fecha con el calendario gregoriano
+
+Nahual
+
+- Información acerca de la Rueda Calendárica
+
+- Obtener el nahual mediante una fecha
+
+Usuario: Cuentan con los siguientes datos: Nombre, Apellido, Nombre de Usuario (Único en el sistema), Correo Electrónico, Contraseña, Fecha de Nacimiento (Opcional) y Teléfono (Opcional)
 	
-	Usuario: Cuentan con los siguientes datos: Nombre, Apellido, Nombre de Usuario (Único en el sistema), Correo Electrónico, Contraseña, Fecha de Nacimiento (Opcional) y Teléfono (Opcional)
+- Crear Cuenta
 	
-		- Crear Cuenta
-		- Iniciar Sesión
-		- Editar Perfil
-		- Ver Perfil
-		- Cerrar Sesión
+- Iniciar Sesión
+
+- Editar Perfil
+
+- Ver Perfil
+
+- Cerrar Sesión
 	
 	Rol
 	
@@ -53,11 +68,11 @@ Funcionalidades
 
 Requisitos del sistema
 
-	- Microsoft .NET Framework versión 4.0
-	- Windows XP, Vista, 7, 8, 8.1, 10
-	- Linux Ubuntu 15.04 y Superior:
-	- Servidor Apache2
-	- Sistema de Gestión de Base de Datos Relacional - MySql
-	- Java 11
-	- Espacio en disco: 100 MB de espacio libre en disco
-	- Pentium 1 GHz o superior con 1GB de RAM o más
+   - Microsoft .NET Framework versión 4.0
+   - Windows XP, Vista, 7, 8, 8.1, 10
+   - Linux Ubuntu 15.04 y Superior:
+   - Servidor Apache2
+   - Sistema de Gestión de Base de Datos Relacional - MySql
+   - Java 11
+   - Espacio en disco: 100 MB de espacio libre en disco
+   - Procesador: Pentium 1 GHz o superior con 1GB de RAM o más
