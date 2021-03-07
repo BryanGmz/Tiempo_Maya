@@ -61,10 +61,11 @@ Usuario: Cuentan con los siguientes datos: Nombre, Apellido, Nombre de Usuario (
 
 - Cerrar Sesión
 	
-	Rol
-	
-		- Administrador o Colaborador: Encargado de la gestión de información dentro del sistema.
-		- Invitado o Visitante: Clientes o Usuarios que utilizan el sistema, aprendiendo acerca del mismo.
+Rol
+
+- Administrador o Colaborador: Encargado de la gestión de información dentro del sistema.
+
+- Invitado o Visitante: Clientes o Usuarios que utilizan el sistema, aprendiendo acerca del mismo.
 
 Requisitos del sistema
 
