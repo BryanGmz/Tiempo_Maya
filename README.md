@@ -1,4 +1,4 @@
-# Tiempo_Maya
+# Tiempo Maya
 La cultura maya se refiere a una civilización mesoamericana que destacó a lo largo de más de dos milenios en numerosos aspectos socioculturales como su escritura jeroglífica, uno de los pocos sistemas de escritura plenamente desarrollados del continente americano precolombino, su arte, la arquitectura, su mitología y sus notables sistemas de numeración, así como en astronomía y matemáticas. Se desarrolló en el sureste de México (en los estados de Yucatán, Campeche, Quintana Roo, Chiapas y Tabasco), prácticamente toda Guatemala y también en Belice, la parte occidental de Honduras y en El Salvador, abarcando más de 300,000 km. Esta aplicación permite difundir algunos de los conocimientos de la cultura Maya, como por ejemplo: los diferentes calendarios Mayas, el conteo del tiempo, los Nahuales y energías. Este proyecto tiene como fin despertar el interés acerca de la cultura maya y las herramientas que nos brindan nos ayudan a tener una mejor interacción con el usuario, así como puede llegar hacer un canal de comunicación y construcción del conocimiento con otros interesados.
 
 ## Funcionalidades
